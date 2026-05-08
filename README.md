@@ -1,4 +1,4 @@
-# customer-sales-insights-sql
+# Customer and Sales Insights using SQL
 # Project Overview 
 This project focuses on cleaning, transforming, and analyzing customer sales dataset using SQL Server. The objective of this project to extract meaningful business insights related to sales performance, customer behavior, product categories, and order trends.
 The project demonstrated real-world data analysis workflow including:
