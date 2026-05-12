@@ -80,7 +80,7 @@ An interactive Power BI dashboard was created to visualize key business metrics 
 8. Exploratory Data Analysis
 
 #  Dashboard Preview 
-
+![Dashboard Preview](Dashboard.png)
 # Future Improvements
 1. Perform customer segmentation analysis
 2. Create sales forecasting models using Python
