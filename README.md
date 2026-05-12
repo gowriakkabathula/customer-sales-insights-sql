@@ -1,14 +1,16 @@
 # Customer and Sales Insights using SQL
 # Project Overview 
-This project focuses on cleaning, transforming, and analyzing customer sales dataset using SQL Server. The objective of this project to extract meaningful business insights related to sales performance, customer behavior, product categories, and order trends.
-The project demonstrated real-world data analysis workflow including:
+This project focuses on cleaning, transforming, analyzing and visualizing customer sales dataset using SQL Server and Power BI. The objective of this project to extract meaningful business insights related to sales performance, customer behavior, product categories, and order trends.
+The project demonstrated a complete end-to-end data analytics workflow including:
 1. Data cleaning
 2. Data Transformation
 3. Exploratory Data Analysis (EDA)
 4. Business Insights Generation
+5. Interactive Dashboard Visualization
 # Tools & Technologies Used
 1. SQL Server
 2. T-SQL
+3. Power BI
 # Dataset Tables Used
 1. Customers Data
 2. Orders Data
@@ -38,6 +40,27 @@ The following data cleaning operations were performed:
 5. Customer Review Analysis
 6. Monthly Sales Trend
 7. Top Customer Analysis
+# Power BI Dashboard
+An interactive Power BI dashboard was created to visualize key business metrics and trends.
+# Dashboard Features
+- KPI Card for:
+- Total Revenue
+- Total Orders
+- Total Customers
+- Average Review Score
+
+- Interactive Visualizations:
+- Montly Sales Trends
+- Revenue by Product Category
+- Order Status Distribution
+- Average Review Score by Category
+
+- Interactive Slicers:
+- Product Catergory
+- Customer State
+- Order Status
+- Purchase Month
+   
 # Key Insights
 1. A small number of product categories contribute the majority of total revenue.
 2. Major cities generate significantly higher sales compared to smaller regions.
@@ -55,8 +78,10 @@ The following data cleaning operations were performed:
 6. Data Cleaning Techniques
 7. Data Type Conversion
 8. Exploratory Data Analysis
+
+#  Dashboard Preview 
+
 # Future Improvements
-1. Build an interactive Power BI dashboard
-2. Add advanced KPI analysis
-3. Perform customer segmenatation analysis
-4. Create sales forecasting models using Python
+1. Perform customer segmentation analysis
+2. Create sales forecasting models using Python
+3. Add predictive analytics features
